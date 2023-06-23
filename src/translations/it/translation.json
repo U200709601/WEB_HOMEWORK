@@ -1,0 +1,66 @@
+{
+	"common": {
+		"active": "Attivo",
+		"audioFile": "File audio",
+		"cancelled": "Annullato",
+		"completed": "Completato",
+		"createdDate": "Data di Creazione",
+		"dateRange": {
+			"end": "fine",
+			"start": "inizio",
+			"to": "a"
+		},
+		"digits": "{{count}} cifre",
+		"duration": "Durata",
+		"failed": "mancato",
+		"form": {
+			"any": "qualunque",
+			"messageBody": "Corpo del messaggio",
+			"messageBodyPlaceholder": "Il corpo del tuo messaggio qui"
+		},
+		"engines": {
+			"title": "Engines"
+		},
+		"fromNumber": "Dal numero",
+		"id": "Id",
+		"inProgress": "In corso",
+		"inactive": "Non attivo",
+		"initiating": "iniziando",
+		"of": "di",
+		"programmableSms": {
+			"sendSms": "Inviare SMS",
+			"title": "SMS programmabili",
+			"viewSms": "Visualizza SMS"
+		},
+		"scheduled": "In programma",
+		"search": "ricerca",
+		"sent": "inviato",
+		"sms": "SMS",
+		"status": "stato",
+		"success": "Successo",
+		"table": {
+			"viewingRows": "Visualizzazione righe"
+		},
+		"textToSpeech": "Sintesi vocale",
+		"toNumber": "Al numero",
+		"voice": "voce"
+	},
+	"form": {
+		"sendSms": {
+			"failMessage": "Il tuo messaggio non può essere inviato",
+			"submit": "Inviare SMS",
+			"successMessage": "Il tuo messaggio è stato inviato con successo"
+		},
+		"validation": {
+			"email": "L'email deve essere un indirizzo email valido",
+			"matches": {
+				"alphanumeric": "{{fieldName}} deve essere alfanumerico",
+				"digits": "{{fieldName}} deve contenere solo cifre",
+				"string": "{{fieldName}} deve includere {{text}} in esso"
+			},
+			"max": "Troppo lungo",
+			"min": "Troppo corto",
+			"required": " {{fieldName}} è obbligatorio"
+		}
+	}
+}

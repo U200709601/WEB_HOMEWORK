@@ -1,0 +1,66 @@
+{
+	"common": {
+		"active": "Aktiv",
+		"audioFile": "Audiodatei",
+		"cancelled": "Abgebrochen",
+		"completed": "Abgeschlossen",
+		"createdDate": "Erstellungsdatum",
+		"dateRange": {
+			"end": "Ende",
+			"start": "Start",
+			"to": "zu"
+		},
+		"digits": "{{count}} Ziffern",
+		"duration": "Dauer",
+		"failed": "Gescheitert",
+		"form": {
+			"any": "Irgendein",
+			"messageBody": "Nachrichtentext",
+			"messageBodyPlaceholder": "Ihr Nachrichtentext hier"
+		},
+		"fromNumber": "von der Nummer",
+		"id": "Ich würde",
+		"inProgress": "In Bearbeitung",
+		"inactive": "Inaktiv",
+		"initiating": "Initiieren",
+		"of": "von",
+		"programmableSms": {
+			"sendSms": "SMS senden",
+			"title": "Programmierbare SMS",
+			"viewSms": "SMS anzeigen"
+		},
+		"engines": {
+			"title": "Engines"
+		},
+		"scheduled": "Geplant",
+		"search": "Suche",
+		"sent": "Geschickt",
+		"sms": "SMS",
+		"status": "Status",
+		"success": "Erfolg",
+		"table": {
+			"viewingRows": "Anzeigen von Zeilen"
+		},
+		"textToSpeech": "Text zu Sprache",
+		"toNumber": "zu nummerieren",
+		"voice": "Stimme"
+	},
+	"form": {
+		"sendSms": {
+			"failMessage": "Deine Nachricht konnte nicht gesendet werden",
+			"submit": "SMS senden",
+			"successMessage": "Ihre Nachricht wurde erfolgreich gesendet"
+		},
+		"validation": {
+			"email": "E-Mail muss eine gültige E-Mail-Adresse sein",
+			"matches": {
+				"alphanumeric": "{{fieldName}} muss alphanumerisch sein",
+				"digits": "{{fieldName}} darf nur Ziffern enthalten",
+				"string": "{{fieldName}} muss {{text}} enthalten"
+			},
+			"max": "Zu lang",
+			"min": "Zu kurz",
+			"required": " {{fieldName}} ist erforderlich"
+		}
+	}
+}

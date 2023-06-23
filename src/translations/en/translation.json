@@ -1,0 +1,66 @@
+{
+	"common": {
+		"active": "Active",
+		"audioFile": "Audio File",
+		"cancelled": "Cancelled",
+		"completed": "Completed",
+		"createdDate": "Created Date",
+		"dateRange": {
+			"end": "End",
+			"start": "Start",
+			"to": "to"
+		},
+		"digits": "{{count}} digits",
+		"duration": "Duration",
+		"failed": "Failed",
+		"form": {
+			"any": "Any",
+			"messageBody": "Message Body",
+			"messageBodyPlaceholder": "Your message body here"
+		},
+		"fromNumber": "From Number",
+		"id": "ID",
+		"inProgress": "In Progress",
+		"inactive": "Inactive",
+		"initiating": "Initiating",
+		"of": "of",
+		"programmableSms": {
+			"sendSms": "Send SMS",
+			"title": "Programmable SMS",
+			"viewSms": "View SMS"
+		},
+		"engines": {
+			"title": "Engines"
+		},
+		"scheduled": "Scheduled",
+		"search": "Search",
+		"sent": "Sent",
+		"sms": "SMS",
+		"status": "Status",
+		"success": "Success",
+		"table": {
+			"viewingRows": "Viewing rows"
+		},
+		"textToSpeech": "Text to Speech",
+		"toNumber": "To Number",
+		"voice": "Voice"
+	},
+	"form": {
+		"sendSms": {
+			"failMessage": "Your message could not be sent",
+			"submit": "Send SMS",
+			"successMessage": "Your message has been successfully sent"
+		},
+		"validation": {
+			"email": "Email must be a valid email address",
+			"matches": {
+				"alphanumeric": "{{fieldName}} must be alphanumeric",
+				"digits": "{{fieldName}} must have digits only",
+				"string": "{{fieldName}} must include {{text}} in it"
+			},
+			"max": "Too long",
+			"min": "Too short",
+			"required": "{{fieldName}} is required"
+		}
+	}
+}

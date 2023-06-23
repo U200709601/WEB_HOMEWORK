@@ -1,0 +1,66 @@
+{
+	"common": {
+		"active": "actif",
+		"audioFile": "fichier audio",
+		"cancelled": "Annulé",
+		"completed": "Terminé",
+		"createdDate": "Date de création",
+		"dateRange": {
+			"end": "Fin",
+			"start": "Début",
+			"to": "à"
+		},
+		"digits": "{{count}}  chiffres",
+		"duration": "Durée",
+		"failed": "Échoué",
+		"form": {
+			"any": "Tout",
+			"messageBody": "Corps du message",
+			"messageBodyPlaceholder": "Le corps de votre message ici"
+		},
+		"fromNumber": "Du numéro",
+		"id": "Id",
+		"inProgress": "En cours",
+		"inactive": "Inactif",
+		"initiating": "Initiation",
+		"of": "de",
+		"programmableSms": {
+			"sendSms": "Envoyer un SMS",
+			"title": "SMS programmables",
+			"viewSms": "Afficher les SMS"
+		},
+		"engines": {
+			"title": "Engines"
+		},
+		"scheduled": "Prévu",
+		"search": "Chercher",
+		"sent": "Envoyé",
+		"sms": "SMS",
+		"status": "Statut",
+		"success": "Succès",
+		"table": {
+			"viewingRows": "Affichage des lignes"
+		},
+		"textToSpeech": "Texte pour parler",
+		"toNumber": "Numéroter",
+		"voice": "VOIX"
+	},
+	"form": {
+		"sendSms": {
+			"failMessage": "Votre message n'a pas pu être envoyé",
+			"submit": "Envoyer un SMS",
+			"successMessage": "Votre message a été envoyé avec succès"
+		},
+		"validation": {
+			"email": "L'email doit être une adresse email valide",
+			"matches": {
+				"alphanumeric": "{{fieldName}} doit être alphanumérique",
+				"digits": "{{fieldName}} ne doit contenir que des chiffres",
+				"string": "{{fieldName}} doit inclure {{text}} dedans"
+			},
+			"max": "Trop long",
+			"min": "Trop court",
+			"required": " {{fieldName}} est requis"
+		}
+	}
+}
